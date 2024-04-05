@@ -1,7 +1,7 @@
 # Go "Hello world!" example app
 
 👋 An example "Hello world" app in Go \
-📄 Example for [👋 Go Hello world guide - DEV Community](https://dev.to/jcbhmr/go-hello-world-guide-53bh)
+📄 Example for [👋 Go "Hello world!" guide - DEV Community](https://dev.to/jcbhmr/go-hello-world-guide-53bh)
 
 <table align=center><td>
 
