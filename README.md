@@ -35,3 +35,9 @@ go install github.com/jcbhmr/go-hello-world@latest
 ```sh
 go-hello-world
 ```
+
+## Development
+
+```sh
+go run .
+```
